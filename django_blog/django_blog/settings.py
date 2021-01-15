@@ -205,3 +205,4 @@ logger = logging.getLogger('django')
 
 logger.info('测试logging模块info')
 
+AUTH_USER_MODEL='users.User'
